@@ -1,16 +1,11 @@
 {
   "name": "milestone-pdf",
   "version": "1.0.0",
-  "description": "Description of your project",
-  "main": "index.js"
+  "description": "A project to build a resume builder",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC"
-}
-{
-  "scripts": {
-    "build": "[my-framework] build --output public"
-  }
 }
