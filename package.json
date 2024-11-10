@@ -9,3 +9,8 @@
   "license": "ISC",
   "description": ""
 }
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
